@@ -16,12 +16,12 @@
 ##### - Linux (Python)
 
 ## Como usar o instalar:
-##### Windows:
+#### Windows:
 ##### EXE File · Doble clic en el ejecutable
 ##### Python · Instalar python desde la tienda de microsoft (Python 3.12). A continuacion ejecutar el AutoInstall.py
 
-##### MacOS (Python)
+#### MacOS
 ##### Python · Instalar python usando el unix.sh y a continuacion ejecutar el AutoInstall.py
 
-##### Linux (Python)
+#### Linux
 ##### Python · Instalar python usando el unix.sh y a continuacion ejecutar el AutoInstall.py
