@@ -1,7 +1,7 @@
 # iNotAtch | Terminal
 #### Terminal avanzada por iNotAtch · discord.inotatch.com
 
-## Important information:
+## Información importante:
 ##### - Version de python recomendada · v3.12
 ##### - Terminal · v1.0.0
 
@@ -15,7 +15,7 @@
 ##### - MacOS (Python)
 ##### - Linux (Python)
 
-## How to use / install:
+## Como usar o instalar:
 ##### Windows:
 ##### EXE File · Doble clic en el ejecutable
 ##### Python · Instalar python desde la tienda de microsoft (Python 3.12). A continuacion ejecutar el AutoInstall.py
